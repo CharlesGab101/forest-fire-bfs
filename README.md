@@ -38,4 +38,4 @@ An environmental simulation and graph traversal algorithm designed to find the m
 ### Compilation
 To compile the **Spread of Fire** executable, run the following command in your terminal:
 ```bash
-RUN algorithm_one_1_.sh
+algorithm_one_1_.sh
